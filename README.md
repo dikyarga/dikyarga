@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello world 👋
+
+- 🔭 I’m currently working at @bukalapak as Frontend Dev
+- 🌱 I’m currently learning State Machine with XState
 
 <!--
 **dikyarga/dikyarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
