@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-- 🔭 I’m currently working at @bukalapak as Frontend Dev
+- 🔭 I’m currently working at @deliveryhero as Frontend Dev
 - 🌱 I’m currently learning State Machine with XState
 
 <!--
